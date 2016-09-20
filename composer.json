@@ -1,0 +1,8 @@
+{
+  "name": "zenzora/damm-php",
+  "autoload": {
+    "psr-0" : {
+      "Zenzora\\DammPhp" : "src"
+    }
+  }
+}
